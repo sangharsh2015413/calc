@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+}
+
+.bgc{
+    background-color: red;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.flex{
+   display: flex;
+   /* justify-content: center;
+   align-items: center; */
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}

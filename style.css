@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400;700&family=Poppins:wght@300&family=Source+Code+Pro:wght@300&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.image{
+    height: 16vh;
+    width: 6vw;
+    border-radius: 50%;
+    margin-top: 50px;
+    /* margin-right: 260px; */
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.button{
+    width: 66px;
+    padding: 30px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    /* font: 50px; */
+    width: 161px;
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 71px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
